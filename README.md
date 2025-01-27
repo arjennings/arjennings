@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **arjennings/arjennings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,27 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-================================================================================
+Introduction
+======================================
+I am currently a senior in the Program of Liberal Studies with a minor in Data Science at the Unversity of Notre Dame. My interdisciplinary curriculum has honed my communication and critical thinking skills alongside my ability to work with data structures. Furthermore, these skills support my passion for storytelling with quantitative and qualitative methods. Lately, I have been building an AI toolkit in prompting and exploring AI applications. 
+
+Skills: Python, R
+
+Contact: ajennin3@nd.edu
+
+LinkedIn: https://www.linkedin.com/in/arden-jennings-95927522b 
+
+
 Data Science Projects
-================================================================================
+======================================
 
-This directory contains a representative sample of the data science projects that I have worked on throughout my time as a student at Notre Dame. Please refer to table of contents (and the linked sub-directory) for a quick explanation of each project and the relevant skills used. 
+This directory contains a list of the data science projects that I have worked on throughout my time as a student at Notre Dame. Please refer to the section below for a brief explanation of each project and a link to further details
 
-.. contents::
-
-Note that the code presented here is formatted as a jupyter notebook using Python 3.8, scikit-learn 0.24.2, and TensorFlow 2.4.1.
-If you want to run this code on your own please check that you are running the correct versions.
-
-################################################################################
-Project title
-################################################################################
-
-**TLDR**:  Brief summary of what you did in the project
-
-**Description**: 
-
-**Skills**: list of data related skills
-
-**Link to Notebook**: 
-    
---------------------------------------------------------------------------------
+**Project Title**
+- Sample
+    - Summary
+    - Skills
