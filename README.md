@@ -33,7 +33,9 @@ This directory contains a list of the data science projects that I have worked o
 
 I am currently working on an app in streamlit in my data science class. By the end of the semester, I hope to complete that project with a comprehensive knowledge of VS code, GitHub, and Streamlit, as well as to achieve a functional app. 
 
-**Project Title**
-- Sample
-    - Summary
-    - Skills
+<!-- 
+**Project Title** 
+ - Sample 
+   - Summary 
+   - Skills
+-->
