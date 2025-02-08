@@ -29,7 +29,9 @@ LinkedIn: https://www.linkedin.com/in/arden-jennings-95927522b
 Data Science Projects
 ======================================
 
-This directory contains a list of the data science projects that I have worked on throughout my time as a student at Notre Dame. Please refer to the section below for a brief explanation of each project and a link to further details
+This directory contains a list of the data science projects that I have worked on throughout my time as a student at Notre Dame. Please refer to the section below for a brief explanation of each project and a link to further details.
+
+I am currently working on an app in streamlit in my data science class. By the end of the semester, I hope to complete that project with a comprehensive knowledge of VS code, GitHub, and Streamlit, as well as to achieve a functional app. 
 
 **Project Title**
 - Sample
