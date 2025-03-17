@@ -33,9 +33,6 @@ This directory contains a list of the data science projects that I have worked o
 
 I am currently working on an app in streamlit in my data science class. By the end of the semester, I hope to complete that project with a comprehensive knowledge of VS code, GitHub, and Streamlit, as well as to achieve a functional app. 
 
-<!-- 
-**Project Title** 
- - Sample 
-   - Summary 
-   - Skills
--->
+**Tidy Data Project (March 2025)** 
+This project demonstrates my skills of data cleaning in service of creating visualizations that are clear and informative. I used the Olympics 2008 data to complete this project.
+See it here: https://github.com/arjennings/TidyData-Project 
